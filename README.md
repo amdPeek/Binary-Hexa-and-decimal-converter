@@ -11,4 +11,4 @@ To run in linux just type :
           
 For Ios and Windows just double click on it.          
           
-P.S : Some feedback would be nice, just write at theomanea9@gmail.com or theo.manea@universite-paris-saclay.fr ! 
+P.S : Some feedback would be nice, just write at theo.manea@universite-paris-saclay.fr ! 
